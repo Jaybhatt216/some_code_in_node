@@ -1,0 +1,16 @@
+{
+  "name": "node_and_express_project",
+  "version": "1.0.0",
+  "description": "simple knowledge base app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app "
+  },
+  "author": "Jay Bhatt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.1",
+    "pug": "^2.0.3"
+  }
+}

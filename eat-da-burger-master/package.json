@@ -1,0 +1,31 @@
+{
+  "name": "eat-da-burger",
+  "version": "1.0.0",
+  "description": "Buger eating application with Node.js, Express, Handlebars, and MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jaybhatt216"
+  },
+  "keywords": [
+    "burgers",
+    "eating",
+    "burgerfi"
+  ],
+  "author": "Jay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaybhatt216"
+  },
+  "homepage": "https://github.com/Jaybhatt216",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.7",
+    "mysql": "^2.13.0"
+  }
+}

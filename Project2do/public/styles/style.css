@@ -1,0 +1,65 @@
+p {
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+}
+#app-header {
+    font-family: 'Poiret One', cursive;
+    background-color: #E7DBC5;
+    color: #BE2F31;
+    background-image: none;
+    background-position: 0% 0%;
+    background-size: 0%;
+}
+#register {
+    font-family: 'Montserrat', sans-serif;
+}
+#login {
+    font-family: 'Montserrat', sans-serif;
+}
+#register_submit {
+    font-family: 'Montserrat', sans-serif;
+}
+#goBack_register {
+    font-family: 'Montserrat', sans-serif;
+}
+#login_submit {
+    font-family: 'Montserrat', sans-serif;
+}
+#goBack_login {
+    font-family: 'Montserrat', sans-serif;
+}
+#task_submit {
+    font-family: 'Montserrat', sans-serif;
+}
+#complaint_submit {
+    font-family: 'Montserrat', sans-serif;
+}
+#nav-info-tab {
+    color: #BE2F31;
+}
+#nav-table-tab {
+    color: #BE2F31;
+}
+#nav-input-tab {
+    color: #BE2F31;
+}
+#nav-info-tab:hover {
+    color: black;
+}
+#nav-table-tab:hover {
+    color: black;
+}
+#nav-input-tab:hover {
+    color: black;
+}
+label {
+    text-decoration: underline;
+    color: black;
+}
+body {
+    background-color: white;
+}
+form {
+    background-color: white;
+    padding: 5px;
+}

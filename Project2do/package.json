@@ -1,0 +1,55 @@
+{
+  "name": "project_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorenzo-Azevedo/Project_2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lorenzo-Azevedo/Project_2/issues"
+  },
+  "homepage": "https://github.com/lorenzo-Azevedo/Prsoject_2#readme",
+  "dependencies": {
+    "babel-eslint": "^10.0.1",
+    "body-parser": "^1.18.3",
+    "connect-mongo": "^2.0.1",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "debug": "^4.0.1",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.6",
+    "favicon": "0.0.2",
+    "hbs": "^4.0.1",
+    "http-errors": "^1.7.1",
+    "mongodb": "^3.1.6",
+    "mongoose": "^5.3.1",
+    "morgan": "^1.9.1",
+    "mysql": "^2.16.0",
+    "mysql2": "^1.6.1",
+    "node-pre-gyp": "^0.11.0",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "sequelize": "^4.39.0",
+    "sql": "^0.78.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.0",
+    "eslint": "^5.6.1",
+    "mocha": "^5.2.0",
+    "prettier": "^1.14.3"
+  }
+}
